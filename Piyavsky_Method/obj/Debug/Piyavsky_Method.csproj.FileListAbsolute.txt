@@ -1,0 +1,19 @@
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.exe
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.exe
+c:\users\acer\documents\visual studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Piyavsky_Method\Piyavsky_Method\bin\Debug\ZedGraph.dll
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.exe.config
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.exe
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.pdb
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.exe
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\bin\Debug\Piyavsky_Method.pdb
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.csprojResolveAssemblyReference.cache
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.Form1.resources
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.Properties.Resources.resources
+D:\Учеба\Маг 1 курс\ЧМ оптимального проектирование механических систем\Piyavsky_Method\Piyavsky_Method\obj\Debug\Piyavsky_Method.csproj.GenerateResource.Cache
